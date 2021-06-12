@@ -7,6 +7,8 @@ There is no visualization or creating some report for speficial question.
 
 ## Diagram of Database
 
-Here is diagram of created database:
+Here is diagram of created database:It can be seen which table is directly linked by which table.
 
-![alt text](https://github.com/bozanomer/US-Domestic-Airline-Flights-Performance/blob/main/Visualizations/Choloromap.PNG)
+![alt text](https://github.com/bozanomer/E-CommercialDatabaseAnalysis/blob/main/Diagram.png)
+
+
